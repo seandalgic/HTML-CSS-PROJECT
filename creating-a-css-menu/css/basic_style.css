@@ -78,6 +78,6 @@ h1 {
         background-image: url ("../icons/icon2.jpg");
     }
     50% {
-        transform: transletY(300px);
+        transform: transleteY(300px);
     }
 }
